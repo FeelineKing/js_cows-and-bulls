@@ -1,1 +1,1 @@
-LINK: feelineKing.github.io/js_bulls-and-cows/index.html
+LINK: https://feelineking.github.io/js_cows-and-bulls/
